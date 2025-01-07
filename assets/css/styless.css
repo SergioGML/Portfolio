@@ -655,7 +655,7 @@ body {
 }
 
 .skills__percentage--p1 {
-    width: 72%;
+    width: 70%;
 }
 
 .skills__percentage--p2 {
@@ -667,23 +667,27 @@ body {
 }
 
 .skills__percentage--p4 {
-    width: 95%;
-}
-
-.skills__percentage--p5 {
     width: 90%;
 }
 
+.skills__percentage--p5 {
+    width: 80%;
+}
+
 .skills__percentage--p6 {
-    width: 85%;
+    width: 70%;
 }
 
 .skills__percentage--p7 {
-    width: 60%;
+    width:65%;
 }
 
 .skills__percentage--p8 {
-    width: 35%;
+    width: 50%;
+}
+
+.skills__percentage--p9 {
+    width: 75%;
 }
 
 .resume__subtitle-know {
